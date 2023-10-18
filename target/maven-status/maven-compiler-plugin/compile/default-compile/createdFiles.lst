@@ -1,0 +1,3 @@
+NewsValidate\PageObject\GoogleSearchPage.class
+NewsValidate\PageObject\GuardianHomePage.class
+NewsValidation\Utils\WebDriverFactory.class
